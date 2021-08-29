@@ -1,15 +1,15 @@
 # Degree
 
-- degree: Master of Library and Information Science
-  uni: Wayne State University
-  year: 2020 &mdash; 2022 (Expected)
-  awards:
-    - award: Graduate Professional Scholarship
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree:     Master of Library and Information Science
+  uni:        Wayne State University
+  year:       2020 &mdash; 2022 (Expected)
+  #awards:
 
-- degree: Bachelor of Arts, Comparative Cultures and Politcs +  Women's and Gender Studies + Arabic
-  uni: Michigan State University
-  year: 2012 &mdash; 2017
-  awards:
-    - award: University Distinguished Scholar
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary:    The ALA-accredited Master of Library and Information Science degree prepares students to be leaders in libraries and information organizations and equips us with the professional skills needed to meet the information needs of diverse organizations. I've studied database design, cataloging, metadata schemas, records managment, copyright, reference services, and more.
+
+- degree:     Bachelor of Arts, Comparative Cultures and Politcs +  Women's and Gender Studies + Arabic
+  uni:        Michigan State University
+  year:       2012 &mdash; 2017
+#  awards:
+
+  summary:   Graduated with High Honors. Triple majored in Arabic, Women's and Gender Studies, and Comparative Cultures and Politics. Minored in Muslim Studies. Completed an intensive summer Arabic program at the University of Texas and studied abroad in Ireland and Morocco. My diverse educational background has thoroughly prepared me to take on the challenges of these ever-changing times.
